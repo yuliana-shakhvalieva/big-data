@@ -4,4 +4,6 @@
 
 #### Описание:
 + Homework_1 - развертывание локального кластера Hadoop, написание map reduce;
-+ Homework_2 - Standalone Spark, работа с данными на Spark, Spark Streaming.
++ Homework_2 - Standalone Spark, работа с данными на Spark, Spark Streaming;
++ Homework_3 - пользовательская линейная регрессия на (Spark ML, Breeze).
+
